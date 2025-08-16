@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/LogsByMahdi/LogsByMahdi/main/moon.jpg" alt="Banner" />
 </p>
 
-# Hi there, I'm Mahdi  
+# Hi I'm Mahdi!
 
-I'm a recent IT graduate uploading some of my projects here.
+- I'm a recent IT graduate uploading some of my projects here.
 
 ## About Me  
 - Currently learning SQL and Splunk (SIEM)
