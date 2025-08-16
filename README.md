@@ -20,7 +20,7 @@ Aspiring **SOC Analyst** | IT Graduate | Cybersecurity Projects
 - **Data & Visualization**: SQL, Power BI  
 - **Other Tools**: Wireshark, TheHive, Cortex  
 
-## Connect with Me  
+## Contact 
 - Email: [MMoh302@outlook.com](mailto:MMoh302@outlook.com)  
 - LinkedIn: [linkedin.com/in/mahdi-mohamadi-1a5067303](https://www.linkedin.com/in/mahdi-mohamadi-1a5067303)  
 
