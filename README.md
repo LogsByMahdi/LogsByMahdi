@@ -10,7 +10,7 @@ Aspiring **SOC Analyst** | IT Graduate | Cybersecurity Projects
 ## About Me  
 - Currently learning **SQL** and **Splunk (SIEM)**  
 - Building hands-on **Cybersecurity labs & detection projects**  
-- Preparing for **CompTIA Security+** & **CHFI** certifications  
+- Preparing for **CCNA** & **CHFI** certifications  
 
 
 ## Skills & Tools  
