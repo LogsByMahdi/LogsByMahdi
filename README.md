@@ -3,18 +3,23 @@
 </p>
 
 
-## Hi there 👋
+## Hi there 👋, I'm Mahdi
 
-- 🔭 I’m currently working on some cyber security projects
-- 🌱 I’m currently learning SQL
-- 🤔 I’m looking for help with SPLUNK
-- 📫 How to reach me via email: MMoh302@outlook.com
+Aspiring SOC Analyst | IT Graduate | Cybersecurity Projects
 
-<!--
-**LogsByMahdi/LogsByMahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on some cyber security projects
-- 🌱 I’m currently learning SQL
-- 🤔 I’m looking for help with SPLUNK
-- 📫 How to reach me via email: MMoh302@outlook.com
--->
+--
+## About Me
+Currently learning SQL and Splunk (SIEM)
+Building hands-on Cybersecurity labs & detection projects
+Preparing for CCNA & CHFI certifications
+--
+##Skills & Tools
+SIEM & Monitoring: Splunk, Wazuh, ELK
+Cybersecurity: Malware Analysis (Labs), MITRE ATT&CK Mapping, Threat Hunting
+Programming / Scripting: Python, PowerShell, Bash
+Data & Visualization: SQL, Power BI
+Other Tools: Wireshark, TheHive, Cortex
+--
+##Connect with Me
+Email: MMoh302@outlook.com
+LinkedIn: linkedin.com/in/mahdi-mohamadi-1a5067303
