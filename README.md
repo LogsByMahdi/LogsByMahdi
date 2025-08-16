@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/LogsByMahdi/LogsByMahdi/main/moon.jpg" alt="Banner" />
 </p>
 
-# Hi I'm Mahdi!
+# Hi I'm Mahdi !
 
 - I'm a recent IT graduate uploading some of my projects here.
 
