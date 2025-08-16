@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LogsByMahdi/LogsByMahdi/main/pic.png" alt="Banner" />
+</p>
+
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on some cyber security projects
